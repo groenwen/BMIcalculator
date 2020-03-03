@@ -1,0 +1,30 @@
+body, html{
+    font-family: "PingFangTC-Light", 微軟正黑體, "Microsoft JhengHei", sans-serif;
+	font-size: 16px;
+}
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box; //chrome
+	-moz-box-sizing: border-box; //firefox
+}
+a {
+    text-decoration: none;
+    color: $secondary;
+}
+h2 {
+	font-size: 2rem;
+}
+h3 {
+	font-size: 1.5rem;
+}
+/* input[type="number"]，移除上下箭頭控制項 */
+/* Chrome */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0; 
+}
+/* Firefox */
+input[type="number"]{
+	-moz-appearance:textfield;
+}

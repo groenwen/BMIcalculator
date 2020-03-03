@@ -1,0 +1,46 @@
+//BMI 區間顏色
+.healthy { //理想
+    .result{
+        color: #86D73E;
+        border-color: #86D73E;
+    }
+    .refresh, .status-color {
+        background-color: #86D73E;
+    }
+}
+.underweight {  //過輕
+    .result{
+        color: #31BAF9;
+        border-color: #31BAF9;
+    }
+    .refresh, .status-color {
+        background-color: #31BAF9;
+    }
+}
+.overweight {  //過重
+    .result{
+        color: #FF982D;
+        border-color: #FF982D;
+    }
+    .refresh, .status-color {
+        background-color: #FF982D;
+    }
+}
+.obese {  //輕度、中度肥胖
+    .result {
+        color: #FF6C02;
+        border-color: #FF6C02;
+    }
+    .refresh, .status-color {
+        background-color: #FF6C02;
+    }
+}
+.extremely-obese {  //輕度、中度肥胖
+    .result {
+        color: #FF1200;
+        border-color: #FF1200;
+    }
+    .refresh, .status-color {
+        background-color: #FF1200;
+    }
+}
