@@ -9,5 +9,6 @@ https://groenwen.github.io/BMIcalculator/
   * BMI 計算功能  
   * 歷史記錄、刪除功能  
 * SCSS
-* 切版、RWD
+* 切版
+* RWD
 
