@@ -1,5 +1,5 @@
-# BMI計算 (JavaScript練習)
->由六角學院提供設計稿，為JavaScript課程的最終作業
+# BMI 計算
+>由六角學院提供設計稿，為 JavaScript 課程的最終作業
 
 ### 網頁
 https://groenwen.github.io/BMIcalculator/
