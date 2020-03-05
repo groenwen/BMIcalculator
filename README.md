@@ -4,7 +4,7 @@
 ### 網頁
 https://groenwen.github.io/BMIcalculator/
 
-### 練習重點
+### 練習技術
 * JavaScript  
   * BMI 計算功能  
   * 歷史記錄、刪除功能  
